@@ -1,0 +1,9 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Sioux Lookout,CA,50.1001,-91.917,10.47,61,40,9.22,scattered clouds
+1,Mareeba,AU,-17.0,145.4333,74.44,96,100,1.16,overcast clouds
+2,New Norfolk,AU,-42.7826,147.0587,52.75,68,23,1.01,few clouds
+3,Mataura,NZ,-46.1927,168.8643,56.39,76,100,4.29,overcast clouds
+4,Udachnyy,RU,66.4167,112.4,-8.95,99,99,5.99,overcast clouds
+5,Ushuaia,AR,-54.8,-68.3,49.66,62,75,21.85,moderate rain
+6,Yulara,AU,-25.2406,130.9889,60.64,77,0,6.91,clear sky
+7,Punta Arenas,CL,-53.15,-70.9167,51.91,50,40,32.21,scattered clouds

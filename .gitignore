@@ -1,3 +1,8 @@
+# Adding config.py file
+config.py
+
+# Adding addtional files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
